@@ -1,0 +1,14 @@
+pip install virtualenv
+
+virtualenv venv // crea el directorio del proyecto
+
+source bin/activate para activar el entornio virtual (dentro de carpeta bin esta el activate)
+
+y ahi estamos adentro del ambiente.
+
+
+busco gitignore python en google, y lo pego en un archivo .gitignote
+
+creo requirements.txt //-> ahi dentro pongo las versiones de las tecnologias, las mas recientes, googlear
+
+despues hay que hacer pip install -r requirements.txt
